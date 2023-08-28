@@ -1,4 +1,4 @@
-## Task 1. Ez bro 
+## Task 1. Yang ini kerjain sendiri, gampang kok 
 
 ## Task 2: Create a Kubernetes service cluster
 # Ganti region sesuai petunjuk
