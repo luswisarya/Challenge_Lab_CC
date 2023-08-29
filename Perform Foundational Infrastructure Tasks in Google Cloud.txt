@@ -1,0 +1,39 @@
+Task 1: Create a bucket
+
+1. Go to search bar 
+2. Search for Buckets
+3. Create
+4. Name it <memories-bucket-37235>
+5. Create
+
+Task 2: Create a Pub/Sub topic
+
+1. Go to search bar
+2. Search for pub/sub
+3. Create topic
+4. Name it <memories-topic-862>
+5. Create 
+
+Task 3:
+
+1. Go to search bar
+2. Search for cloud functions
+3. Create function
+4. Function name > memories-thumbnail-creator
+5. Region > us-central1
+6. Trigger Type > Cloud Storage
+7. Event Type > On (finalizing/creating)
+8. Bucket > Browse > memories-bucket-37235
+9. Save > Next
+10. Runtime > Node.js14
+11. Entry point > thumbnail
+12. Deploy
+13. Download https://storage.googleapis.com/cloud-training/gsp315/map.jpg
+14. Go to search bar > Cloud Storage
+15. You should see your bucket, click it, then upload the downloaded image above.
+16. Refresh
+
+Task 4:
+
+1. Go to search bar > IAM
+2. Find your 2nd username > Edit > Delete 
