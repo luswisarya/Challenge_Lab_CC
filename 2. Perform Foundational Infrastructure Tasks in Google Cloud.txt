@@ -26,7 +26,7 @@
 8. Bucket > Browse > memories-bucket-37235
 9. Save > Next
 10. Runtime > Node.js14
-11. Entry point > thumbnail
+11. Entry point > thumbnail ( Make sure u edit the index.json and package.json ) 
 12. Deploy
 13. Download https://storage.googleapis.com/cloud-training/gsp315/map.jpg
 14. Go to search bar > Cloud Storage
