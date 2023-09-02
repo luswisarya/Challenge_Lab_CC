@@ -22,7 +22,7 @@
 4. Function name > memories-thumbnail-creator
 5. Region > us-central1
 6. Trigger Type > Cloud Storage
-7. Event Type > On (finalizing/creating)
+7. Event Type > On (finalizing/creating) 
 8. Bucket > Browse > memories-bucket-37235
 9. Save > Next
 10. Runtime > Node.js14
