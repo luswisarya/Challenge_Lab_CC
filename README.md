@@ -1,5 +1,5 @@
-
-## Google Cloud Computing Foundations Course on GCSB
+## GCSB
+## Google Cloud Computing Foundations Course 
 
 1. Create and Manage Cloud Resources - GSP313 - Done
 2. Perform Foundational Infrastructure Tasks in Google Cloud - GSP315 - Done
