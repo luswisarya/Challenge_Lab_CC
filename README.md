@@ -1,5 +1,5 @@
 # GCSB
-# Bangkit 2023 Batch 2
+- Bangkit 2023 Batch 2 -
 ## Google Cloud Computing Foundations Course 
 
 1. Create and Manage Cloud Resources - GSP313 - Done
