@@ -17,4 +17,4 @@
 ## Bangkit - Cloud App Dev Learning App
 
 1. Deploy to Kubernetes in Google Cloud - GSP318 - Done
-2. Serverless Cloud Run Development - In Progress
+2. Serverless Cloud Run Development - Done 
